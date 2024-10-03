@@ -1,0 +1,1050 @@
+2024-10-03 21:55:37,216 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-10-03 21:58:22,134 [Worker-37: Creating project "movies"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 21:58:22,562 [Worker-37: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/main/java
+2024-10-03 21:58:22,564 [Worker-37: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/main/resources
+2024-10-03 21:58:22,565 [Worker-37: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/test/java
+2024-10-03 21:58:22,565 [Worker-37: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/test/resources
+2024-10-03 21:58:22,906 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:58:22,911 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 21:58:22,917 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:58:22,918 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 21:59:21,522 [Worker-22: Creating project "movies"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 21:59:21,720 [Worker-22: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/main/java
+2024-10-03 21:59:21,721 [Worker-22: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/main/resources
+2024-10-03 21:59:21,721 [Worker-22: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/test/java
+2024-10-03 21:59:21,721 [Worker-22: Creating project "movies"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/test/resources
+2024-10-03 21:59:21,956 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:59:21,958 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 21:59:21,960 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:59:21,961 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 21:59:28,988 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:59:28,991 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 21:59:28,993 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:59:28,995 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 21:59:39,347 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:59:39,348 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 21:59:39,351 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 21:59:39,352 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:00:11,005 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:00:11,098 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:00:11,100 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:00:11,103 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:00:11,104 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:00:12,148 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-lambda-java-core/1.2.3/aws-lambda-java-core-1.2.3-sources.jar
+2024-10-03 22:00:12,207 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-lambda-java-core/1.2.3/aws-lambda-java-core-1.2.3-sources.jar
+2024-10-03 22:00:12,210 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-lambda-java-core:1.2.3
+2024-10-03 22:00:12,378 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:00:12,379 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:00:12,380 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:00:12,382 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:00:17,841 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:00:17,944 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:00:18,007 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/main/java
+2024-10-03 22:00:18,008 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/main/resources
+2024-10-03 22:00:18,008 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/test/java
+2024-10-03 22:00:18,009 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/test/resources
+2024-10-03 22:00:18,033 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:00:18,148 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:00:18,149 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:00:18,150 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:00:18,150 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:01:00,393 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:01:00,488 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:01:00,543 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/main/java
+2024-10-03 22:01:00,543 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/main/resources
+2024-10-03 22:01:00,543 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/test/java
+2024-10-03 22:01:00,544 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/test/resources
+2024-10-03 22:01:00,563 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:01:00,729 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:00,730 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:01:00,732 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:00,733 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:01:32,102 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:01:32,154 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:32,163 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:01:32,165 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:32,166 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:01:34,397 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:01:34,452 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:34,454 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:01:34,456 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:34,456 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:01:47,882 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:01:47,951 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:47,953 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:01:47,956 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:47,957 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:01:58,899 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:01:58,983 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:01:59,033 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/main/java
+2024-10-03 22:01:59,034 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/main/resources
+2024-10-03 22:01:59,034 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/test/java
+2024-10-03 22:01:59,035 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/test/resources
+2024-10-03 22:01:59,055 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:01:59,210 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:59,211 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:01:59,213 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:01:59,214 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:02:15,535 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:02:15,585 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:15,587 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:02:15,588 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:15,589 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:02:22,371 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:02:22,425 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:22,426 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:02:22,428 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:22,429 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:02:29,315 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:02:29,398 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:02:29,466 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/main/java
+2024-10-03 22:02:29,467 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/main/resources
+2024-10-03 22:02:29,467 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/test/java
+2024-10-03 22:02:29,467 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/test/resources
+2024-10-03 22:02:29,514 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:02:29,629 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:29,630 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:02:29,632 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:29,632 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:02:58,289 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:58,290 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:02:58,292 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:02:58,293 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:03:23,243 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:03:23,245 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:03:23,246 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:03:23,247 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:03:37,420 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:03:37,421 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:03:37,422 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:03:37,423 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:03:42,833 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:03:42,834 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:03:42,835 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:03:42,836 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:04:18,952 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:04:19,020 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:04:19,022 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:04:19,024 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:04:19,025 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:04:24,207 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:04:24,287 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:movies:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\movies\pom.xml.
+2024-10-03 22:04:24,357 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/main/java
+2024-10-03 22:04:24,358 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/main/resources
+2024-10-03 22:04:24,358 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movies/src/test/java
+2024-10-03 22:04:24,359 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movies/src/test/resources
+2024-10-03 22:04:24,409 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:04:24,580 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:04:24,581 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:04:24,582 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:04:24,583 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:07:32,368 [Worker-24: Rebuilding] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:07:32,369 [Worker-24: Rebuilding] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:07:32,370 [Worker-24: Rebuilding] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:07:32,370 [Worker-24: Rebuilding] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:09:09,807 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:09:09,808 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:09:09,809 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:09:09,810 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:11:41,957 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:11:41,958 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:11:41,960 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:11:41,963 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:12:07,969 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:12:07,970 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:12:07,971 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:12:07,973 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:12:08,991 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:12:08,993 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:12:08,994 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:12:08,994 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:12:29,156 [Worker-25: Creating project "pulumi"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: neozigmund.co.uk:pulumi:0.0.1-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi\pom.xml.
+2024-10-03 22:12:29,291 [Worker-25: Creating project "pulumi"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi/src/main/java
+2024-10-03 22:12:29,292 [Worker-25: Creating project "pulumi"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi/src/main/resources
+2024-10-03 22:12:29,292 [Worker-25: Creating project "pulumi"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi/src/test/java
+2024-10-03 22:12:29,292 [Worker-25: Creating project "pulumi"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi/src/test/resources
+2024-10-03 22:12:29,441 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:12:29,442 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:12:29,443 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:12:29,444 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:14:11,099 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:14:11,301 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:14:13,127 [Worker-24: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/main/java
+2024-10-03 22:14:13,128 [Worker-24: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/main/resources
+2024-10-03 22:14:13,128 [Worker-24: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/test/java
+2024-10-03 22:14:13,129 [Worker-24: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/test/resources
+2024-10-03 22:14:13,260 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2024-10-03 22:14:13,432 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:14:13,433 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:14:13,434 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:14:13,435 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:14:14,394 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/pulumi/0.16.1/pulumi-0.16.1-sources.jar
+2024-10-03 22:14:14,451 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/pulumi/0.16.1/pulumi-0.16.1-sources.jar
+2024-10-03 22:14:14,454 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.pulumi:pulumi:0.16.1
+2024-10-03 22:14:14,514 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf/1.54.1/grpc-protobuf-1.54.1-sources.jar
+2024-10-03 22:14:14,553 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf/1.54.1/grpc-protobuf-1.54.1-sources.jar
+2024-10-03 22:14:14,555 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-protobuf:1.54.1
+2024-10-03 22:14:14,691 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.54.1/grpc-api-1.54.1-sources.jar
+2024-10-03 22:14:14,745 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.54.1/grpc-api-1.54.1-sources.jar
+2024-10-03 22:14:14,747 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-api:1.54.1
+2024-10-03 22:14:14,814 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.54.1/grpc-context-1.54.1-sources.jar
+2024-10-03 22:14:14,878 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.54.1/grpc-context-1.54.1-sources.jar
+2024-10-03 22:14:14,881 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-context:1.54.1
+2024-10-03 22:14:14,990 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/api/grpc/proto-google-common-protos/2.9.0/proto-google-common-protos-2.9.0-sources.jar
+2024-10-03 22:14:15,084 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/api/grpc/proto-google-common-protos/2.9.0/proto-google-common-protos-2.9.0-sources.jar
+2024-10-03 22:14:15,086 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.api.grpc:proto-google-common-protos:2.9.0
+2024-10-03 22:14:15,218 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf-lite/1.54.1/grpc-protobuf-lite-1.54.1-sources.jar
+2024-10-03 22:14:15,245 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf-lite/1.54.1/grpc-protobuf-lite-1.54.1-sources.jar
+2024-10-03 22:14:15,247 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-protobuf-lite:1.54.1
+2024-10-03 22:14:15,311 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.54.1/grpc-stub-1.54.1-sources.jar
+2024-10-03 22:14:15,495 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.54.1/grpc-stub-1.54.1-sources.jar
+2024-10-03 22:14:15,498 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-stub:1.54.1
+2024-10-03 22:14:15,557 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0-sources.jar
+2024-10-03 22:14:15,770 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0-sources.jar
+2024-10-03 22:14:15,772 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.18.0
+2024-10-03 22:14:15,835 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2024-10-03 22:14:16,016 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2024-10-03 22:14:16,018 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.2
+2024-10-03 22:14:16,155 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-java8-guava/1.2.0/future-converter-java8-guava-1.2.0-sources.jar
+2024-10-03 22:14:16,178 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-java8-guava/1.2.0/future-converter-java8-guava-1.2.0-sources.jar
+2024-10-03 22:14:16,180 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.javacrumbs.future-converter:future-converter-java8-guava:1.2.0
+2024-10-03 22:14:16,275 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-common/1.2.0/future-converter-common-1.2.0-sources.jar
+2024-10-03 22:14:16,302 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-common/1.2.0/future-converter-common-1.2.0-sources.jar
+2024-10-03 22:14:16,304 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.javacrumbs.future-converter:future-converter-common:1.2.0
+2024-10-03 22:14:16,447 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-java8-common/1.2.0/future-converter-java8-common-1.2.0-sources.jar
+2024-10-03 22:14:16,473 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-java8-common/1.2.0/future-converter-java8-common-1.2.0-sources.jar
+2024-10-03 22:14:16,476 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.javacrumbs.future-converter:future-converter-java8-common:1.2.0
+2024-10-03 22:14:16,542 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-guava-common/1.2.0/future-converter-guava-common-1.2.0-sources.jar
+2024-10-03 22:14:16,573 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/javacrumbs/future-converter/future-converter-guava-common/1.2.0/future-converter-guava-common-1.2.0-sources.jar
+2024-10-03 22:14:16,576 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.javacrumbs.future-converter:future-converter-guava-common:1.2.0
+2024-10-03 22:14:16,636 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre-sources.jar
+2024-10-03 22:14:16,764 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre-sources.jar
+2024-10-03 22:14:16,767 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:32.1.2-jre
+2024-10-03 22:14:16,828 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1-sources.jar
+2024-10-03 22:14:16,853 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1-sources.jar
+2024-10-03 22:14:16,856 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:failureaccess:1.0.1
+2024-10-03 22:14:17,002 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-sources.jar
+2024-10-03 22:14:17,005 [Worker-24: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-03 22:14:17,087 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0-sources.jar
+2024-10-03 22:14:17,142 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0-sources.jar
+2024-10-03 22:14:17,144 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.33.0
+2024-10-03 22:14:17,208 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8-sources.jar
+2024-10-03 22:14:17,311 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8-sources.jar
+2024-10-03 22:14:17,313 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.j2objc:j2objc-annotations:2.8
+2024-10-03 22:14:17,379 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10/gson-2.10-sources.jar
+2024-10-03 22:14:17,430 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10/gson-2.10-sources.jar
+2024-10-03 22:14:17,432 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.10
+2024-10-03 22:14:17,490 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.24.1/protobuf-java-3.24.1-sources.jar
+2024-10-03 22:14:17,575 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.24.1/protobuf-java-3.24.1-sources.jar
+2024-10-03 22:14:17,577 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.24.1
+2024-10-03 22:14:17,721 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java-util/3.24.1/protobuf-java-util-3.24.1-sources.jar
+2024-10-03 22:14:17,805 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java-util/3.24.1/protobuf-java-util-3.24.1-sources.jar
+2024-10-03 22:14:17,807 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java-util:3.24.1
+2024-10-03 22:14:17,944 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-netty-shaded/1.54.1/grpc-netty-shaded-1.54.1-sources.jar
+2024-10-03 22:14:17,961 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-netty-shaded/1.54.1/grpc-netty-shaded-1.54.1-sources.jar
+2024-10-03 22:14:17,963 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-netty-shaded:1.54.1
+2024-10-03 22:14:18,024 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.25.0/perfmark-api-0.25.0-sources.jar
+2024-10-03 22:14:18,100 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/perfmark/perfmark-api/0.25.0/perfmark-api-0.25.0-sources.jar
+2024-10-03 22:14:18,102 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.perfmark:perfmark-api:0.25.0
+2024-10-03 22:14:18,245 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.54.1/grpc-core-1.54.1-sources.jar
+2024-10-03 22:14:18,310 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.54.1/grpc-core-1.54.1-sources.jar
+2024-10-03 22:14:18,313 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.grpc:grpc-core:1.54.1
+2024-10-03 22:14:18,378 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4-sources.jar
+2024-10-03 22:14:18,401 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4-sources.jar
+2024-10-03 22:14:18,404 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.android:annotations:4.1.1.4
+2024-10-03 22:14:18,469 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.21/animal-sniffer-annotations-1.21-sources.jar
+2024-10-03 22:14:18,501 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.21/animal-sniffer-annotations-1.21-sources.jar
+2024-10-03 22:14:18,503 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.mojo:animal-sniffer-annotations:1.21
+2024-10-03 22:14:41,619 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:14:41,793 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:14:41,794 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:14:41,796 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:14:41,796 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:14:43,086 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:14:43,087 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:14:43,088 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:14:43,089 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:14:43,975 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/aws/0.0.1/aws-0.0.1-sources.jar
+2024-10-03 22:14:45,147 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/aws/0.0.1/aws-0.0.1-sources.jar
+2024-10-03 22:14:45,150 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.pulumi:aws:0.0.1
+2024-10-03 22:14:45,222 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.9/gson-2.8.9-sources.jar
+2024-10-03 22:14:45,282 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.9/gson-2.8.9-sources.jar
+2024-10-03 22:14:45,284 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.9
+2024-10-03 22:14:45,598 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/pulumi/0.12.0/pulumi-0.12.0-sources.jar
+2024-10-03 22:14:45,650 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/pulumi/0.12.0/pulumi-0.12.0-sources.jar
+2024-10-03 22:14:45,652 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.pulumi:pulumi:0.12.0
+2024-10-03 22:14:45,810 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-javadoc.jar
+2024-10-03 22:14:45,812 [Worker-24: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-03 22:15:03,456 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:15:03,571 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:03,572 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:15:03,574 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:03,574 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:15:04,878 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:04,879 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:15:04,880 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:04,880 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:15:05,197 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/aws/6.54.2/aws-6.54.2-sources.jar
+2024-10-03 22:15:06,257 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/aws/6.54.2/aws-6.54.2-sources.jar
+2024-10-03 22:15:06,260 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.pulumi:aws:6.54.2
+2024-10-03 22:15:09,884 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:15:10,143 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:15:10,261 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/main/java
+2024-10-03 22:15:10,261 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/main/resources
+2024-10-03 22:15:10,261 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/test/java
+2024-10-03 22:15:10,262 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/test/resources
+2024-10-03 22:15:10,317 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:15:10,435 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:10,435 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:15:10,436 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:10,437 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:15:29,692 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:15:29,887 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:15:29,992 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/main/java
+2024-10-03 22:15:29,992 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/main/resources
+2024-10-03 22:15:29,992 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/test/java
+2024-10-03 22:15:29,994 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/test/resources
+2024-10-03 22:15:30,048 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:15:30,202 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:30,203 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:15:30,204 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:15:30,204 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:15,613 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:16:15,877 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:15,877 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:15,879 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:15,880 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:17,157 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:17,157 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:17,158 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:17,159 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:27,059 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:16:27,166 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:27,166 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:27,167 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:27,167 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:28,408 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:28,409 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:28,410 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:28,410 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:29,976 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi2:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:16:30,049 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:30,050 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:30,052 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:30,052 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:38,392 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi2:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:16:38,713 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:38,714 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:38,716 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:38,717 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:47,408 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:16:47,592 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:47,592 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:47,594 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:47,594 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:16:48,912 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:48,913 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:16:48,914 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:16:48,914 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:17:47,487 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:17:47,679 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:17:47,679 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:17:47,681 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:17:47,682 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:17:47,869 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:17:48,027 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:17:48,220 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/main/java
+2024-10-03 22:17:48,220 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/main/resources
+2024-10-03 22:17:48,221 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/test/java
+2024-10-03 22:17:48,221 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/test/resources
+2024-10-03 22:17:48,284 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:17:48,885 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:17:48,885 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:17:48,886 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:17:48,887 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:18:17,090 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:18:17,271 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:17,272 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:18:17,272 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:17,273 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:18:17,284 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:18:17,306 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:18:17,487 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/main/java
+2024-10-03 22:18:17,488 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/main/resources
+2024-10-03 22:18:17,488 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/test/java
+2024-10-03 22:18:17,488 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/test/resources
+2024-10-03 22:18:17,581 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:18:18,399 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:18,399 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:18:18,401 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:18,401 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:18:20,117 [Worker-14: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </project> must match start tag name <dependency> from line 19 (position: TEXT seen ...</version>\r\n\r\n</project>... @24:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </project> must match start tag name <dependency> from line 19 (position: TEXT seen ...</version>\r\n\r\n</project>... @24:11) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1360)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1422)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2321)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-03 22:18:21,281 [Worker-40: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </project> must match start tag name <dependency> from line 19 (position: TEXT seen ...</version>\r\n\r\n</project>... @24:11) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </project> must match start tag name <dependency> from line 19 (position: TEXT seen ...</version>\r\n\r\n</project>... @24:11) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1360)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1422)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2321)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-03 22:18:30,983 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:18:31,156 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:31,157 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:18:31,158 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:31,159 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:18:32,379 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:32,379 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:18:32,380 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:32,381 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:18:45,558 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:18:45,636 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:45,637 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:18:45,637 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:45,639 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:18:46,805 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:46,806 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:18:46,807 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:18:46,807 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:19:33,940 [Worker-41: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'plugins' (position: START_TAG seen ...<dependencies>\r\n\r\n  <plugins>... @15:12) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'plugins' (position: START_TAG seen ...<dependencies>\r\n\r\n  <plugins>... @15:12) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2325)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-03 22:19:35,106 [Worker-24: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'plugins' (position: START_TAG seen ...<dependencies>\r\n\r\n  <plugins>... @15:12) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'plugins' (position: START_TAG seen ...<dependencies>\r\n\r\n  <plugins>... @15:12) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2325)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-03 22:19:42,702 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:19:42,718 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:19:42,718 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:19:42,719 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:19:42,719 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:20:00,616 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:20:00,803 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:00,804 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:20:00,805 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:00,805 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:20:00,845 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:20:01,036 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:20:01,215 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/main/java
+2024-10-03 22:20:01,215 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/main/resources
+2024-10-03 22:20:01,215 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/test/java
+2024-10-03 22:20:01,216 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/test/resources
+2024-10-03 22:20:01,325 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:20:01,954 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:01,955 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:20:01,957 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:01,958 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:20:13,719 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:20:13,735 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:13,736 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:20:13,737 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:13,738 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:20:14,921 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:14,921 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:20:14,922 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:14,922 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:20:19,960 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:20:20,188 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:20,189 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:20:20,190 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:20,191 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:20:21,328 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:21,328 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:20:21,329 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:20:21,330 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:21:08,772 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:21:08,950 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:21:08,950 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:21:08,951 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:21:08,952 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:21:09,236 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-03 22:21:09,397 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:21:09,581 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/main/java
+2024-10-03 22:21:09,582 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/main/resources
+2024-10-03 22:21:09,582 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pulumi-deploy/src/test/java
+2024-10-03 22:21:09,582 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pulumi-deploy/src/test/resources
+2024-10-03 22:21:09,641 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-03 22:21:10,303 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:21:10,303 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:21:10,304 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:21:10,304 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:21:43,714 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:21:43,715 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:21:43,716 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:21:43,717 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:22:00,951 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:22:00,951 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:22:00,952 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:22:00,953 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:23:11,630 [Worker-7: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'groupId' (position: START_TAG seen ...</dependency>\r\n                    <groupId>... @26:30) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'groupId' (position: START_TAG seen ...</dependency>\r\n                    <groupId>... @26:30) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2325)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-03 22:23:12,859 [Worker-7: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'groupId' (position: START_TAG seen ...</dependency>\r\n                    <groupId>... @26:30) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'groupId' (position: START_TAG seen ...</dependency>\r\n                    <groupId>... @26:30) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:181)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2325)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-03 22:23:21,402 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/maven-metadata.xml
+2024-10-03 22:23:21,429 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/maven-metadata.xml
+2024-10-03 22:23:21,456 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.1-alpha.1686861008+83637b8c/archive-0.0.1-alpha.1686861008+83637b8c.pom
+2024-10-03 22:23:21,465 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:23:21,475 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.1-alpha.1686861008+83637b8c/archive-0.0.1-alpha.1686861008+83637b8c.pom
+2024-10-03 22:23:21,572 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.1/archive-0.0.1.pom
+2024-10-03 22:23:21,591 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.1/archive-0.0.1.pom
+2024-10-03 22:23:21,789 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.2-alpha.1690485149+1d301d3e/archive-0.0.2-alpha.1690485149+1d301d3e.pom
+2024-10-03 22:23:21,806 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.2-alpha.1690485149+1d301d3e/archive-0.0.2-alpha.1690485149+1d301d3e.pom
+2024-10-03 22:23:21,906 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.2/archive-0.0.2.pom
+2024-10-03 22:23:21,923 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.2/archive-0.0.2.pom
+2024-10-03 22:23:22,020 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1695073823+feb4b15c/archive-0.0.3-alpha.1695073823+feb4b15c.pom
+2024-10-03 22:23:22,037 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1695073823+feb4b15c/archive-0.0.3-alpha.1695073823+feb4b15c.pom
+2024-10-03 22:23:22,250 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1695186461+05ee4be7/archive-0.0.3-alpha.1695186461+05ee4be7.pom
+2024-10-03 22:23:22,268 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1695186461+05ee4be7/archive-0.0.3-alpha.1695186461+05ee4be7.pom
+2024-10-03 22:23:22,365 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1695820408+6f272333/archive-0.0.3-alpha.1695820408+6f272333.pom
+2024-10-03 22:23:22,381 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1695820408+6f272333/archive-0.0.3-alpha.1695820408+6f272333.pom
+2024-10-03 22:23:22,479 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696283320+b1aa03cb/archive-0.0.3-alpha.1696283320+b1aa03cb.pom
+2024-10-03 22:23:22,497 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696283320+b1aa03cb/archive-0.0.3-alpha.1696283320+b1aa03cb.pom
+2024-10-03 22:23:22,596 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696358954+61c9ccd0/archive-0.0.3-alpha.1696358954+61c9ccd0.pom
+2024-10-03 22:23:22,612 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696358954+61c9ccd0/archive-0.0.3-alpha.1696358954+61c9ccd0.pom
+2024-10-03 22:23:22,713 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696484563+96d834be/archive-0.0.3-alpha.1696484563+96d834be.pom
+2024-10-03 22:23:22,729 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696484563+96d834be/archive-0.0.3-alpha.1696484563+96d834be.pom
+2024-10-03 22:23:22,826 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696568718+616fec9f/archive-0.0.3-alpha.1696568718+616fec9f.pom
+2024-10-03 22:23:22,842 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696568718+616fec9f/archive-0.0.3-alpha.1696568718+616fec9f.pom
+2024-10-03 22:23:22,941 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696655120+a0ecccff/archive-0.0.3-alpha.1696655120+a0ecccff.pom
+2024-10-03 22:23:22,958 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696655120+a0ecccff/archive-0.0.3-alpha.1696655120+a0ecccff.pom
+2024-10-03 22:23:23,055 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696872134+71282ac4/archive-0.0.3-alpha.1696872134+71282ac4.pom
+2024-10-03 22:23:23,069 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1696872134+71282ac4/archive-0.0.3-alpha.1696872134+71282ac4.pom
+2024-10-03 22:23:23,166 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1697087142+1023af64/archive-0.0.3-alpha.1697087142+1023af64.pom
+2024-10-03 22:23:23,186 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1697087142+1023af64/archive-0.0.3-alpha.1697087142+1023af64.pom
+2024-10-03 22:23:23,404 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1697519181+386085e5/archive-0.0.3-alpha.1697519181+386085e5.pom
+2024-10-03 22:23:23,443 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1697519181+386085e5/archive-0.0.3-alpha.1697519181+386085e5.pom
+2024-10-03 22:23:23,550 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1697864726+d43ba6d0/archive-0.0.3-alpha.1697864726+d43ba6d0.pom
+2024-10-03 22:23:23,567 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1697864726+d43ba6d0/archive-0.0.3-alpha.1697864726+d43ba6d0.pom
+2024-10-03 22:23:23,649 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698123906+7f1e4147/archive-0.0.3-alpha.1698123906+7f1e4147.pom
+2024-10-03 22:23:23,667 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698123906+7f1e4147/archive-0.0.3-alpha.1698123906+7f1e4147.pom
+2024-10-03 22:23:23,766 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698210316+85bdc006/archive-0.0.3-alpha.1698210316+85bdc006.pom
+2024-10-03 22:23:23,781 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698210316+85bdc006/archive-0.0.3-alpha.1698210316+85bdc006.pom
+2024-10-03 22:23:23,884 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698258775+fa78e999/archive-0.0.3-alpha.1698258775+fa78e999.pom
+2024-10-03 22:23:23,898 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698258775+fa78e999/archive-0.0.3-alpha.1698258775+fa78e999.pom
+2024-10-03 22:23:23,997 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698435799+62cf78ec/archive-0.0.3-alpha.1698435799+62cf78ec.pom
+2024-10-03 22:23:24,011 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698435799+62cf78ec/archive-0.0.3-alpha.1698435799+62cf78ec.pom
+2024-10-03 22:23:24,107 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698474481+39d83fb3/archive-0.0.3-alpha.1698474481+39d83fb3.pom
+2024-10-03 22:23:24,125 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698474481+39d83fb3/archive-0.0.3-alpha.1698474481+39d83fb3.pom
+2024-10-03 22:23:24,222 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698961090+1e9af0fd/archive-0.0.3-alpha.1698961090+1e9af0fd.pom
+2024-10-03 22:23:24,237 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1698961090+1e9af0fd/archive-0.0.3-alpha.1698961090+1e9af0fd.pom
+2024-10-03 22:23:24,331 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1699074306+0f97b1c4/archive-0.0.3-alpha.1699074306+0f97b1c4.pom
+2024-10-03 22:23:24,348 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1699074306+0f97b1c4/archive-0.0.3-alpha.1699074306+0f97b1c4.pom
+2024-10-03 22:23:24,443 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1699506273+7cb34f88/archive-0.0.3-alpha.1699506273+7cb34f88.pom
+2024-10-03 22:23:24,461 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1699506273+7cb34f88/archive-0.0.3-alpha.1699506273+7cb34f88.pom
+2024-10-03 22:23:24,560 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1699647424+f8e2ddfb/archive-0.0.3-alpha.1699647424+f8e2ddfb.pom
+2024-10-03 22:23:24,578 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1699647424+f8e2ddfb/archive-0.0.3-alpha.1699647424+f8e2ddfb.pom
+2024-10-03 22:23:24,675 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700075299+9418d280/archive-0.0.3-alpha.1700075299+9418d280.pom
+2024-10-03 22:23:24,693 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700075299+9418d280/archive-0.0.3-alpha.1700075299+9418d280.pom
+2024-10-03 22:23:24,788 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700111054+621f1b62/archive-0.0.3-alpha.1700111054+621f1b62.pom
+2024-10-03 22:23:24,804 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700111054+621f1b62/archive-0.0.3-alpha.1700111054+621f1b62.pom
+2024-10-03 22:23:25,046 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700197453+644570f8/archive-0.0.3-alpha.1700197453+644570f8.pom
+2024-10-03 22:23:25,072 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700197453+644570f8/archive-0.0.3-alpha.1700197453+644570f8.pom
+2024-10-03 22:23:25,168 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700611803+d1aa5a35/archive-0.0.3-alpha.1700611803+d1aa5a35.pom
+2024-10-03 22:23:25,184 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700611803+d1aa5a35/archive-0.0.3-alpha.1700611803+d1aa5a35.pom
+2024-10-03 22:23:25,281 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700612385+dcdf9e75/archive-0.0.3-alpha.1700612385+dcdf9e75.pom
+2024-10-03 22:23:25,295 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1700612385+dcdf9e75/archive-0.0.3-alpha.1700612385+dcdf9e75.pom
+2024-10-03 22:23:25,394 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1701790172+34ab0843/archive-0.0.3-alpha.1701790172+34ab0843.pom
+2024-10-03 22:23:25,411 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1701790172+34ab0843/archive-0.0.3-alpha.1701790172+34ab0843.pom
+2024-10-03 22:23:25,511 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1701839394+2a346bb6/archive-0.0.3-alpha.1701839394+2a346bb6.pom
+2024-10-03 22:23:25,529 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1701839394+2a346bb6/archive-0.0.3-alpha.1701839394+2a346bb6.pom
+2024-10-03 22:23:25,661 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702340901+18761120/archive-0.0.3-alpha.1702340901+18761120.pom
+2024-10-03 22:23:25,678 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702340901+18761120/archive-0.0.3-alpha.1702340901+18761120.pom
+2024-10-03 22:23:25,777 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702348532+bd8e0939/archive-0.0.3-alpha.1702348532+bd8e0939.pom
+2024-10-03 22:23:25,794 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702348532+bd8e0939/archive-0.0.3-alpha.1702348532+bd8e0939.pom
+2024-10-03 22:23:25,890 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702444197+c1dd2494/archive-0.0.3-alpha.1702444197+c1dd2494.pom
+2024-10-03 22:23:25,907 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702444197+c1dd2494/archive-0.0.3-alpha.1702444197+c1dd2494.pom
+2024-10-03 22:23:26,006 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702587467+ba45837d/archive-0.0.3-alpha.1702587467+ba45837d.pom
+2024-10-03 22:23:26,023 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1702587467+ba45837d/archive-0.0.3-alpha.1702587467+ba45837d.pom
+2024-10-03 22:23:26,121 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1703010613+aaac912c/archive-0.0.3-alpha.1703010613+aaac912c.pom
+2024-10-03 22:23:26,141 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3-alpha.1703010613+aaac912c/archive-0.0.3-alpha.1703010613+aaac912c.pom
+2024-10-03 22:23:26,270 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3/archive-0.0.3.pom
+2024-10-03 22:23:26,286 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.3/archive-0.0.3.pom
+2024-10-03 22:23:26,383 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703039734+318bbe3a/archive-0.0.4-alpha.1703039734+318bbe3a.pom
+2024-10-03 22:23:26,400 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703039734+318bbe3a/archive-0.0.4-alpha.1703039734+318bbe3a.pom
+2024-10-03 22:23:26,502 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703135373+4f3bbd84/archive-0.0.4-alpha.1703135373+4f3bbd84.pom
+2024-10-03 22:23:26,519 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703135373+4f3bbd84/archive-0.0.4-alpha.1703135373+4f3bbd84.pom
+2024-10-03 22:23:26,615 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703653792+ae12e182/archive-0.0.4-alpha.1703653792+ae12e182.pom
+2024-10-03 22:23:26,634 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703653792+ae12e182/archive-0.0.4-alpha.1703653792+ae12e182.pom
+2024-10-03 22:23:26,737 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703714379+6de4922d/archive-0.0.4-alpha.1703714379+6de4922d.pom
+2024-10-03 22:23:26,754 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703714379+6de4922d/archive-0.0.4-alpha.1703714379+6de4922d.pom
+2024-10-03 22:23:26,855 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703826613+178748cf/archive-0.0.4-alpha.1703826613+178748cf.pom
+2024-10-03 22:23:26,877 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1703826613+178748cf/archive-0.0.4-alpha.1703826613+178748cf.pom
+2024-10-03 22:23:26,972 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704211258+c86364a1/archive-0.0.4-alpha.1704211258+c86364a1.pom
+2024-10-03 22:23:26,990 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704211258+c86364a1/archive-0.0.4-alpha.1704211258+c86364a1.pom
+2024-10-03 22:23:27,092 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704258579+7dbcd0d3/archive-0.0.4-alpha.1704258579+7dbcd0d3.pom
+2024-10-03 22:23:27,134 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704258579+7dbcd0d3/archive-0.0.4-alpha.1704258579+7dbcd0d3.pom
+2024-10-03 22:23:27,314 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704345022+7fc651a1/archive-0.0.4-alpha.1704345022+7fc651a1.pom
+2024-10-03 22:23:27,331 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704345022+7fc651a1/archive-0.0.4-alpha.1704345022+7fc651a1.pom
+2024-10-03 22:23:27,430 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704381725+49dd2026/archive-0.0.4-alpha.1704381725+49dd2026.pom
+2024-10-03 22:23:27,449 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704381725+49dd2026/archive-0.0.4-alpha.1704381725+49dd2026.pom
+2024-10-03 22:23:27,633 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704427765+9313e919/archive-0.0.4-alpha.1704427765+9313e919.pom
+2024-10-03 22:23:27,649 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1704427765+9313e919/archive-0.0.4-alpha.1704427765+9313e919.pom
+2024-10-03 22:23:27,745 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705199621+955cb972/archive-0.0.4-alpha.1705199621+955cb972.pom
+2024-10-03 22:23:27,762 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705199621+955cb972/archive-0.0.4-alpha.1705199621+955cb972.pom
+2024-10-03 22:23:27,859 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705433875+b45f8ed2/archive-0.0.4-alpha.1705433875+b45f8ed2.pom
+2024-10-03 22:23:27,875 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705433875+b45f8ed2/archive-0.0.4-alpha.1705433875+b45f8ed2.pom
+2024-10-03 22:23:28,060 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705468210+519704f1/archive-0.0.4-alpha.1705468210+519704f1.pom
+2024-10-03 22:23:28,077 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705468210+519704f1/archive-0.0.4-alpha.1705468210+519704f1.pom
+2024-10-03 22:23:28,173 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705627807+ef53f463/archive-0.0.4-alpha.1705627807+ef53f463.pom
+2024-10-03 22:23:28,188 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705627807+ef53f463/archive-0.0.4-alpha.1705627807+ef53f463.pom
+2024-10-03 22:23:28,284 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705641118+40fbb23b/archive-0.0.4-alpha.1705641118+40fbb23b.pom
+2024-10-03 22:23:28,297 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705641118+40fbb23b/archive-0.0.4-alpha.1705641118+40fbb23b.pom
+2024-10-03 22:23:28,396 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705986615+7cfc16e6/archive-0.0.4-alpha.1705986615+7cfc16e6.pom
+2024-10-03 22:23:28,411 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1705986615+7cfc16e6/archive-0.0.4-alpha.1705986615+7cfc16e6.pom
+2024-10-03 22:23:28,506 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1706212377+d90f164d/archive-0.0.4-alpha.1706212377+d90f164d.pom
+2024-10-03 22:23:28,522 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4-alpha.1706212377+d90f164d/archive-0.0.4-alpha.1706212377+d90f164d.pom
+2024-10-03 22:23:28,620 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4/archive-0.0.4.pom
+2024-10-03 22:23:28,636 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.4/archive-0.0.4.pom
+2024-10-03 22:23:28,736 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706306550+a3a8e7b2/archive-0.0.5-alpha.1706306550+a3a8e7b2.pom
+2024-10-03 22:23:28,752 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706306550+a3a8e7b2/archive-0.0.5-alpha.1706306550+a3a8e7b2.pom
+2024-10-03 22:23:28,943 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706743135+ce05b696/archive-0.0.5-alpha.1706743135+ce05b696.pom
+2024-10-03 22:23:28,957 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706743135+ce05b696/archive-0.0.5-alpha.1706743135+ce05b696.pom
+2024-10-03 22:23:29,214 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706811214+ee1dedf9/archive-0.0.5-alpha.1706811214+ee1dedf9.pom
+2024-10-03 22:23:29,230 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706811214+ee1dedf9/archive-0.0.5-alpha.1706811214+ee1dedf9.pom
+2024-10-03 22:23:29,476 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706825415+98666748/archive-0.0.5-alpha.1706825415+98666748.pom
+2024-10-03 22:23:29,491 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1706825415+98666748/archive-0.0.5-alpha.1706825415+98666748.pom
+2024-10-03 22:23:29,591 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707282903+99a0e9eb/archive-0.0.5-alpha.1707282903+99a0e9eb.pom
+2024-10-03 22:23:29,605 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707282903+99a0e9eb/archive-0.0.5-alpha.1707282903+99a0e9eb.pom
+2024-10-03 22:23:29,707 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707496005+2362c3f8/archive-0.0.5-alpha.1707496005+2362c3f8.pom
+2024-10-03 22:23:29,723 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707496005+2362c3f8/archive-0.0.5-alpha.1707496005+2362c3f8.pom
+2024-10-03 22:23:29,821 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707542050+556675c8/archive-0.0.5-alpha.1707542050+556675c8.pom
+2024-10-03 22:23:29,841 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707542050+556675c8/archive-0.0.5-alpha.1707542050+556675c8.pom
+2024-10-03 22:23:29,940 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707887714+101c215d/archive-0.0.5-alpha.1707887714+101c215d.pom
+2024-10-03 22:23:29,964 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707887714+101c215d/archive-0.0.5-alpha.1707887714+101c215d.pom
+2024-10-03 22:23:30,056 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707974129+75a20511/archive-0.0.5-alpha.1707974129+75a20511.pom
+2024-10-03 22:23:30,072 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1707974129+75a20511/archive-0.0.5-alpha.1707974129+75a20511.pom
+2024-10-03 22:23:30,175 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1708060513+1567fad6/archive-0.0.5-alpha.1708060513+1567fad6.pom
+2024-10-03 22:23:30,191 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1708060513+1567fad6/archive-0.0.5-alpha.1708060513+1567fad6.pom
+2024-10-03 22:23:30,290 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1708492529+25ace5d0/archive-0.0.5-alpha.1708492529+25ace5d0.pom
+2024-10-03 22:23:30,307 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1708492529+25ace5d0/archive-0.0.5-alpha.1708492529+25ace5d0.pom
+2024-10-03 22:23:30,406 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1708665443+f4d223c9/archive-0.0.5-alpha.1708665443+f4d223c9.pom
+2024-10-03 22:23:30,423 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1708665443+f4d223c9/archive-0.0.5-alpha.1708665443+f4d223c9.pom
+2024-10-03 22:23:30,520 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709010968+e25681fe/archive-0.0.5-alpha.1709010968+e25681fe.pom
+2024-10-03 22:23:30,537 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709010968+e25681fe/archive-0.0.5-alpha.1709010968+e25681fe.pom
+2024-10-03 22:23:30,635 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709097422+04f7a75a/archive-0.0.5-alpha.1709097422+04f7a75a.pom
+2024-10-03 22:23:30,650 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709097422+04f7a75a/archive-0.0.5-alpha.1709097422+04f7a75a.pom
+2024-10-03 22:23:30,746 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709121194+641e22e0/archive-0.0.5-alpha.1709121194+641e22e0.pom
+2024-10-03 22:23:30,761 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709121194+641e22e0/archive-0.0.5-alpha.1709121194+641e22e0.pom
+2024-10-03 22:23:30,972 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709208287+59dc581b/archive-0.0.5-alpha.1709208287+59dc581b.pom
+2024-10-03 22:23:30,989 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709208287+59dc581b/archive-0.0.5-alpha.1709208287+59dc581b.pom
+2024-10-03 22:23:31,086 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709356579+d811c12a/archive-0.0.5-alpha.1709356579+d811c12a.pom
+2024-10-03 22:23:31,100 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1709356579+d811c12a/archive-0.0.5-alpha.1709356579+d811c12a.pom
+2024-10-03 22:23:31,201 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1710156048+fbf3f125/archive-0.0.5-alpha.1710156048+fbf3f125.pom
+2024-10-03 22:23:31,215 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1710156048+fbf3f125/archive-0.0.5-alpha.1710156048+fbf3f125.pom
+2024-10-03 22:23:31,502 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1710911810+c4345410/archive-0.0.5-alpha.1710911810+c4345410.pom
+2024-10-03 22:23:31,518 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1710911810+c4345410/archive-0.0.5-alpha.1710911810+c4345410.pom
+2024-10-03 22:23:31,622 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1710994164+7cacdb35/archive-0.0.5-alpha.1710994164+7cacdb35.pom
+2024-10-03 22:23:31,640 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1710994164+7cacdb35/archive-0.0.5-alpha.1710994164+7cacdb35.pom
+2024-10-03 22:23:31,738 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1711026968+db383a38/archive-0.0.5-alpha.1711026968+db383a38.pom
+2024-10-03 22:23:31,755 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1711026968+db383a38/archive-0.0.5-alpha.1711026968+db383a38.pom
+2024-10-03 22:23:31,855 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1711516253+2d121108/archive-0.0.5-alpha.1711516253+2d121108.pom
+2024-10-03 22:23:31,867 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1711516253+2d121108/archive-0.0.5-alpha.1711516253+2d121108.pom
+2024-10-03 22:23:31,964 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1711734921+2e94f55e/archive-0.0.5-alpha.1711734921+2e94f55e.pom
+2024-10-03 22:23:31,979 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5-alpha.1711734921+2e94f55e/archive-0.0.5-alpha.1711734921+2e94f55e.pom
+2024-10-03 22:23:32,073 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5/archive-0.0.5.pom
+2024-10-03 22:23:32,088 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.5/archive-0.0.5.pom
+2024-10-03 22:23:32,184 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712398919+315da15a/archive-0.0.6-alpha.1712398919+315da15a.pom
+2024-10-03 22:23:32,199 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712398919+315da15a/archive-0.0.6-alpha.1712398919+315da15a.pom
+2024-10-03 22:23:32,298 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712466571+757bfa13/archive-0.0.6-alpha.1712466571+757bfa13.pom
+2024-10-03 22:23:32,314 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712466571+757bfa13/archive-0.0.6-alpha.1712466571+757bfa13.pom
+2024-10-03 22:23:32,487 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712725906+6d0f7108/archive-0.0.6-alpha.1712725906+6d0f7108.pom
+2024-10-03 22:23:32,505 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712725906+6d0f7108/archive-0.0.6-alpha.1712725906+6d0f7108.pom
+2024-10-03 22:23:32,605 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712985068+10b411ac/archive-0.0.6-alpha.1712985068+10b411ac.pom
+2024-10-03 22:23:32,625 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1712985068+10b411ac/archive-0.0.6-alpha.1712985068+10b411ac.pom
+2024-10-03 22:23:32,724 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1713330587+7b22f074/archive-0.0.6-alpha.1713330587+7b22f074.pom
+2024-10-03 22:23:32,742 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1713330587+7b22f074/archive-0.0.6-alpha.1713330587+7b22f074.pom
+2024-10-03 22:23:32,967 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1713444532+178ddf08/archive-0.0.6-alpha.1713444532+178ddf08.pom
+2024-10-03 22:23:32,990 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1713444532+178ddf08/archive-0.0.6-alpha.1713444532+178ddf08.pom
+2024-10-03 22:23:33,081 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1713897280+78ec37c4/archive-0.0.6-alpha.1713897280+78ec37c4.pom
+2024-10-03 22:23:33,097 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1713897280+78ec37c4/archive-0.0.6-alpha.1713897280+78ec37c4.pom
+2024-10-03 22:23:33,196 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1714108188+d7285717/archive-0.0.6-alpha.1714108188+d7285717.pom
+2024-10-03 22:23:33,215 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1714108188+d7285717/archive-0.0.6-alpha.1714108188+d7285717.pom
+2024-10-03 22:23:33,349 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1714453987+4ae2e448/archive-0.0.6-alpha.1714453987+4ae2e448.pom
+2024-10-03 22:23:33,366 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1714453987+4ae2e448/archive-0.0.6-alpha.1714453987+4ae2e448.pom
+2024-10-03 22:23:33,466 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1714536509+662ce7ad/archive-0.0.6-alpha.1714536509+662ce7ad.pom
+2024-10-03 22:23:33,485 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1714536509+662ce7ad/archive-0.0.6-alpha.1714536509+662ce7ad.pom
+2024-10-03 22:23:33,586 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1717540270/archive-0.0.6-alpha.1717540270.pom
+2024-10-03 22:23:33,602 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6-alpha.1717540270/archive-0.0.6-alpha.1717540270.pom
+2024-10-03 22:23:33,703 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6/archive-0.0.6.pom
+2024-10-03 22:23:33,717 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.0.6/archive-0.0.6.pom
+2024-10-03 22:23:33,814 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1714540174+27de30c/archive-0.1.0-alpha.1714540174+27de30c.pom
+2024-10-03 22:23:33,830 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1714540174+27de30c/archive-0.1.0-alpha.1714540174+27de30c.pom
+2024-10-03 22:23:33,928 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1714561830+6bd3c8a/archive-0.1.0-alpha.1714561830+6bd3c8a.pom
+2024-10-03 22:23:33,943 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1714561830+6bd3c8a/archive-0.1.0-alpha.1714561830+6bd3c8a.pom
+2024-10-03 22:23:34,042 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715058618+227a33f/archive-0.1.0-alpha.1715058618+227a33f.pom
+2024-10-03 22:23:34,056 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715058618+227a33f/archive-0.1.0-alpha.1715058618+227a33f.pom
+2024-10-03 22:23:34,152 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715231401+844b8e3/archive-0.1.0-alpha.1715231401+844b8e3.pom
+2024-10-03 22:23:34,169 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715231401+844b8e3/archive-0.1.0-alpha.1715231401+844b8e3.pom
+2024-10-03 22:23:34,267 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715302941+90b39c4/archive-0.1.0-alpha.1715302941+90b39c4.pom
+2024-10-03 22:23:34,284 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715302941+90b39c4/archive-0.1.0-alpha.1715302941+90b39c4.pom
+2024-10-03 22:23:34,383 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715335197+5bc7c6b/archive-0.1.0-alpha.1715335197+5bc7c6b.pom
+2024-10-03 22:23:34,400 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715335197+5bc7c6b/archive-0.1.0-alpha.1715335197+5bc7c6b.pom
+2024-10-03 22:23:34,498 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715751430+b86d0ec/archive-0.1.0-alpha.1715751430+b86d0ec.pom
+2024-10-03 22:23:34,513 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715751430+b86d0ec/archive-0.1.0-alpha.1715751430+b86d0ec.pom
+2024-10-03 22:23:34,609 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715922700/archive-0.1.0-alpha.1715922700.pom
+2024-10-03 22:23:34,624 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1715922700/archive-0.1.0-alpha.1715922700.pom
+2024-10-03 22:23:34,723 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1716504266/archive-0.1.0-alpha.1716504266.pom
+2024-10-03 22:23:34,739 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1716504266/archive-0.1.0-alpha.1716504266.pom
+2024-10-03 22:23:34,834 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1716959382/archive-0.1.0-alpha.1716959382.pom
+2024-10-03 22:23:34,852 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1716959382/archive-0.1.0-alpha.1716959382.pom
+2024-10-03 22:23:34,950 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1717132168/archive-0.1.0-alpha.1717132168.pom
+2024-10-03 22:23:34,966 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1717132168/archive-0.1.0-alpha.1717132168.pom
+2024-10-03 22:23:35,064 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1717477746/archive-0.1.0-alpha.1717477746.pom
+2024-10-03 22:23:35,080 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1717477746/archive-0.1.0-alpha.1717477746.pom
+2024-10-03 22:23:35,182 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1717712270/archive-0.1.0-alpha.1717712270.pom
+2024-10-03 22:23:35,197 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1717712270/archive-0.1.0-alpha.1717712270.pom
+2024-10-03 22:23:35,293 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718082503/archive-0.1.0-alpha.1718082503.pom
+2024-10-03 22:23:35,310 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718082503/archive-0.1.0-alpha.1718082503.pom
+2024-10-03 22:23:35,403 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718168933/archive-0.1.0-alpha.1718168933.pom
+2024-10-03 22:23:35,419 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718168933/archive-0.1.0-alpha.1718168933.pom
+2024-10-03 22:23:35,515 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718255315/archive-0.1.0-alpha.1718255315.pom
+2024-10-03 22:23:35,530 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718255315/archive-0.1.0-alpha.1718255315.pom
+2024-10-03 22:23:35,627 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718341767/archive-0.1.0-alpha.1718341767.pom
+2024-10-03 22:23:35,644 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718341767/archive-0.1.0-alpha.1718341767.pom
+2024-10-03 22:23:35,805 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718428139/archive-0.1.0-alpha.1718428139.pom
+2024-10-03 22:23:35,821 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1718428139/archive-0.1.0-alpha.1718428139.pom
+2024-10-03 22:23:35,919 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1722056963/archive-0.1.0-alpha.1722056963.pom
+2024-10-03 22:23:35,934 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1722056963/archive-0.1.0-alpha.1722056963.pom
+2024-10-03 22:23:36,028 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1722853867/archive-0.1.0-alpha.1722853867.pom
+2024-10-03 22:23:36,045 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0-alpha.1722853867/archive-0.1.0-alpha.1722853867.pom
+2024-10-03 22:23:36,140 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0/archive-0.1.0.pom
+2024-10-03 22:23:36,156 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.1.0/archive-0.1.0.pom
+2024-10-03 22:23:36,252 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1722921320/archive-0.2.0-alpha.1722921320.pom
+2024-10-03 22:23:36,267 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1722921320/archive-0.2.0-alpha.1722921320.pom
+2024-10-03 22:23:36,363 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1723007753/archive-0.2.0-alpha.1723007753.pom
+2024-10-03 22:23:36,379 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1723007753/archive-0.2.0-alpha.1723007753.pom
+2024-10-03 22:23:36,482 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1723453674/archive-0.2.0-alpha.1723453674.pom
+2024-10-03 22:23:36,500 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1723453674/archive-0.2.0-alpha.1723453674.pom
+2024-10-03 22:23:36,597 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1723819441/archive-0.2.0-alpha.1723819441.pom
+2024-10-03 22:23:36,620 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1723819441/archive-0.2.0-alpha.1723819441.pom
+2024-10-03 22:23:36,716 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1724476229/archive-0.2.0-alpha.1724476229.pom
+2024-10-03 22:23:36,731 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1724476229/archive-0.2.0-alpha.1724476229.pom
+2024-10-03 22:23:36,826 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1724908582/archive-0.2.0-alpha.1724908582.pom
+2024-10-03 22:23:36,841 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1724908582/archive-0.2.0-alpha.1724908582.pom
+2024-10-03 22:23:36,939 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1724994976/archive-0.2.0-alpha.1724994976.pom
+2024-10-03 22:23:36,955 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1724994976/archive-0.2.0-alpha.1724994976.pom
+2024-10-03 22:23:37,056 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725599758/archive-0.2.0-alpha.1725599758.pom
+2024-10-03 22:23:37,074 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725599758/archive-0.2.0-alpha.1725599758.pom
+2024-10-03 22:23:37,172 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725644100/archive-0.2.0-alpha.1725644100.pom
+2024-10-03 22:23:37,194 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725644100/archive-0.2.0-alpha.1725644100.pom
+2024-10-03 22:23:37,299 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725685858/archive-0.2.0-alpha.1725685858.pom
+2024-10-03 22:23:37,322 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725685858/archive-0.2.0-alpha.1725685858.pom
+2024-10-03 22:23:37,416 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725945346/archive-0.2.0-alpha.1725945346.pom
+2024-10-03 22:23:37,441 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1725945346/archive-0.2.0-alpha.1725945346.pom
+2024-10-03 22:23:37,539 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1726031707/archive-0.2.0-alpha.1726031707.pom
+2024-10-03 22:23:37,554 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1726031707/archive-0.2.0-alpha.1726031707.pom
+2024-10-03 22:23:37,649 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1726065782/archive-0.2.0-alpha.1726065782.pom
+2024-10-03 22:23:37,666 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0-alpha.1726065782/archive-0.2.0-alpha.1726065782.pom
+2024-10-03 22:23:37,763 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0/archive-0.2.0.pom
+2024-10-03 22:23:37,780 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.0/archive-0.2.0.pom
+2024-10-03 22:23:37,878 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.1/archive-0.2.1.pom
+2024-10-03 22:23:37,891 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.2.1/archive-0.2.1.pom
+2024-10-03 22:23:37,987 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726204544/archive-0.3.0-alpha.1726204544.pom
+2024-10-03 22:23:38,003 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726204544/archive-0.3.0-alpha.1726204544.pom
+2024-10-03 22:23:38,102 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726290912/archive-0.3.0-alpha.1726290912.pom
+2024-10-03 22:23:38,114 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726290912/archive-0.3.0-alpha.1726290912.pom
+2024-10-03 22:23:38,279 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726722928/archive-0.3.0-alpha.1726722928.pom
+2024-10-03 22:23:38,302 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726722928/archive-0.3.0-alpha.1726722928.pom
+2024-10-03 22:23:38,399 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726826629/archive-0.3.0-alpha.1726826629.pom
+2024-10-03 22:23:38,423 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1726826629/archive-0.3.0-alpha.1726826629.pom
+2024-10-03 22:23:38,522 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727221001/archive-0.3.0-alpha.1727221001.pom
+2024-10-03 22:23:38,545 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727221001/archive-0.3.0-alpha.1727221001.pom
+2024-10-03 22:23:38,642 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727845722/archive-0.3.0-alpha.1727845722.pom
+2024-10-03 22:23:38,664 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727845722/archive-0.3.0-alpha.1727845722.pom
+2024-10-03 22:23:38,771 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727870788/archive-0.3.0-alpha.1727870788.pom
+2024-10-03 22:23:38,788 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727870788/archive-0.3.0-alpha.1727870788.pom
+2024-10-03 22:23:38,915 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727870788/archive-0.3.0-alpha.1727870788.jar
+2024-10-03 22:23:39,159 [Worker-7: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727870788/archive-0.3.0-alpha.1727870788.jar
+2024-10-03 22:23:39,531 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:23:39,533 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:23:39,534 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:23:39,535 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:23:40,725 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727870788/archive-0.3.0-alpha.1727870788-sources.jar
+2024-10-03 22:23:40,766 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:23:40,766 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:23:40,767 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:23:40,768 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:23:40,999 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/pulumi/archive/0.3.0-alpha.1727870788/archive-0.3.0-alpha.1727870788-sources.jar
+2024-10-03 22:23:41,003 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.pulumi:archive:0.3.0-alpha.1727870788
+2024-10-03 22:24:23,625 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pulumi:pulumi-deploy:1.0-SNAPSHOT @ C:\Users\The2b\eclipse-workspace\pulumi-deploy\pom.xml.
+2024-10-03 22:24:23,902 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:24:23,903 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\main\resources
+2024-10-03 22:24:23,904 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:24:23,904 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\The2b\eclipse-workspace\pulumi-deploy\src\test\resources
+2024-10-03 22:25:12,758 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:12,759 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:25:12,760 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:12,760 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:25:18,150 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:18,152 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:25:18,153 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:18,153 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:25:32,353 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:32,354 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:25:32,356 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:32,358 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:25:38,672 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:38,673 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:25:38,674 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:25:38,675 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-10-03 22:26:10,507 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:26:10,508 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-03 22:26:10,509 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-03 22:26:10,509 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
